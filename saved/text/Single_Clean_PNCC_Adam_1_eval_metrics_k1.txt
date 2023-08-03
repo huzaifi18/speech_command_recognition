@@ -1,0 +1,2 @@
+Train Accuracy: 88.51603269577026
+Val Accuracy: 90.625
