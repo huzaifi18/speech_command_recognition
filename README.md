@@ -28,3 +28,6 @@ Results on the [Speech Command Dataset V2](https://www.tensorflow.org/datasets/c
 + Spafe 0.3.1
 + Scikit-learn 1.0.2
 + Numpy 1.21.6
+
+
+### This work has been published in International Physics Seminar and Reputable Journal, still in the process of publication
