@@ -6,7 +6,7 @@
 ---
 ### Results:
 
-Results on the [Speech Command Dataset V2](https://www.tensorflow.org/datasets/catalog/speech_commands) with 10 selected class:
+Results which shows the average score of 3-fold cross validation on the [Speech Command Dataset V2](https://www.tensorflow.org/datasets/catalog/speech_commands) with 10 selected class:
 
  | Model   | Condition | Training Acc (%) | Testing Acc (%) |
 |---------|-----------|------------------|-----------------|
